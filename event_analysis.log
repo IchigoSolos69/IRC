@@ -1,0 +1,10 @@
+2024-11-23 18:34:31,895 - ERROR - Error loading CSV files: Error tokenizing data. C error: Expected 8 fields in line 19, saw 9
+
+2024-11-23 18:34:59,566 - INFO - CSV files ['D:/Python_Projects/irc/event.csv'] uploaded successfully.
+2024-11-23 18:35:31,250 - INFO - Historical data viewed for Ankit Madaan.
+2024-11-23 18:36:03,564 - INFO - CSV files ['D:/Python_Projects/irc/event.csv'] uploaded successfully.
+2024-11-23 18:36:31,265 - INFO - Historical data viewed for Ankit Madaan.
+2024-11-23 18:38:05,189 - INFO - CSV files ['D:/Python_Projects/irc/event.csv'] uploaded successfully.
+2024-11-23 18:39:39,355 - INFO - CSV files ['D:/Python_Projects/irc/event.csv'] uploaded successfully.
+2024-11-23 18:40:10,430 - INFO - Email sent to erankitmadaan@gmail.com successfully.
+2024-11-23 18:40:10,430 - INFO - Certificate sent to Ankit Madaan (erankitmadaan@gmail.com).
