@@ -92,6 +92,3 @@ IRC/
 
 *“Decode data, unlock insights.”*
 
-
-
-[1] https://github.com/IchigoSolos69/IRC
